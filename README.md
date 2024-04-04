@@ -1,7 +1,7 @@
 # Chicago Dataset to analyse and improve educational outcomes for children in Chicago
 
 ## Objective
-You have been hired by an organization that strives to improve educational outcomes for children and young people in Chicago. Your job is to analyze the census, crime, and school data for a given neighborhood or district. You will identify causes that impact the enrollment, safety, health, environment ratings of schools. You will be required to answer questions similar to what a real-life data analyst or data scientist would be tasked with. You will be assessed both on the correctness of your SQL queries and results.
+Is to analyze the census, crime, and school data for a given neighborhood or district of Chicago. You will identify causes that impact the enrollment, safety, health, environment ratings of schools. You will be required to answer questions similar to what a real-life data analyst or data scientist would be tasked with. You will be assessed both on the correctness of your SQL queries and results.
 
 #### Questions to be answered:
 - Question 1: Find the total number of crimes recorded in the CRIME table.
