@@ -1,4 +1,4 @@
-# Chicago Dataset to analyse and improve educational outcomes for children in Chicago
+# Chicago Dataset to analyse and answer life style in Chicago
 
 ## Objective
 Is to analyze the census, crime, and school data for a given neighborhood or district of Chicago. You will identify causes that impact the enrollment, safety, health, environment ratings of schools. You will be required to answer questions similar to what a real-life data analyst or data scientist would be tasked with. You will be assessed both on the correctness of your SQL queries and results.
