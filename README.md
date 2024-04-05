@@ -3,6 +3,20 @@
 ## Objective
 Is to analyze the census, crime, and school data for a given neighborhood or district of Chicago. You will identify causes that impact the enrollment, safety, health, environment ratings of schools. You will be required to answer questions similar to what a real-life data analyst or data scientist would be tasked with. You will be assessed both on the correctness of your SQL queries and results.
 
+### 💻 Tools and Technologies:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7EBE2?style=for-the-badge&logo=pandas&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-FACCA7?style=for-the-badge&logo=Jupyter)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-86B4AD?style=for-the-badge)
+![beautifulsoup](https://img.shields.io/badge/BeautifulSoup-404847?style=for-the-badge)
+
 #### Questions to be answered:
 - Question 1: Find the total number of crimes recorded in the CRIME table.
 - Question 2: List community areas with per capita income less than 11000.
@@ -14,11 +28,6 @@ Is to analyze the census, crime, and school data for a given neighborhood or dis
 - Question 8: Which community area(number) is most crime prone?
 - Question 9: Use a sub-query to find the name of the community area with highest hardship index.
 - Question 10: Use a sub-query to determine the Community Area Name with most number of crimes?
-
-## Application
-- Jupyter Notebooks
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 ## Introduction to Data set
 
